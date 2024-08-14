@@ -2,7 +2,6 @@ package com.fakhri.products.data.network.user
 
 import com.fakhri.products.data.network.api.ProductService
 import com.fakhri.products.data.network.response.user.Users
-import kotlinx.coroutines.runBlocking
 import kotlinx.coroutines.test.runTest
 import kotlinx.serialization.json.Json
 import org.junit.Assert.*
